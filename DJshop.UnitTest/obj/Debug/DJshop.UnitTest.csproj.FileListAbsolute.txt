@@ -1,0 +1,14 @@
+\\35.198.194.133\Dataaa\DJshop\DJshop\DJshop.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+\\35.198.194.133\Dataaa\DJshop\DJshop\DJshop.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+\\35.198.194.133\Dataaa\DJshop\DJshop\DJshop.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+\\35.198.194.133\Dataaa\DJshop\DJshop\DJshop.UnitTest\bin\Debug\DJshop.UnitTest.dll
+\\35.198.194.133\Dataaa\DJshop\DJshop\DJshop.UnitTest\bin\Debug\DJshop.UnitTest.pdb
+\\35.198.194.133\Dataaa\DJshop\DJshop\DJshop.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+\\35.198.194.133\Dataaa\DJshop\DJshop\DJshop.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+\\35.198.194.133\Dataaa\DJshop\DJshop\DJshop.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+\\35.198.194.133\Dataaa\DJshop\DJshop\DJshop.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+\\35.198.194.133\Dataaa\DJshop\DJshop\DJshop.UnitTest\obj\Debug\DJshop.UnitTest.csprojAssemblyReference.cache
+\\35.198.194.133\Dataaa\DJshop\DJshop\DJshop.UnitTest\obj\Debug\DJshop.UnitTest.csproj.CoreCompileInputs.cache
+\\35.198.194.133\Dataaa\DJshop\DJshop\DJshop.UnitTest\obj\Debug\DJshop.UnitTest.csproj.CopyComplete
+\\35.198.194.133\Dataaa\DJshop\DJshop\DJshop.UnitTest\obj\Debug\DJshop.UnitTest.dll
+\\35.198.194.133\Dataaa\DJshop\DJshop\DJshop.UnitTest\obj\Debug\DJshop.UnitTest.pdb

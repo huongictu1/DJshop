@@ -1,0 +1,6 @@
+\\35.198.194.133\Dataaa\DJshop\DJshop\DJshop.Data\bin\Debug\DJshop.Data.dll
+\\35.198.194.133\Dataaa\DJshop\DJshop\DJshop.Data\bin\Debug\DJshop.Data.pdb
+\\35.198.194.133\Dataaa\DJshop\DJshop\DJshop.Data\obj\Debug\DJshop.Data.csprojAssemblyReference.cache
+\\35.198.194.133\Dataaa\DJshop\DJshop\DJshop.Data\obj\Debug\DJshop.Data.csproj.CoreCompileInputs.cache
+\\35.198.194.133\Dataaa\DJshop\DJshop\DJshop.Data\obj\Debug\DJshop.Data.dll
+\\35.198.194.133\Dataaa\DJshop\DJshop\DJshop.Data\obj\Debug\DJshop.Data.pdb
